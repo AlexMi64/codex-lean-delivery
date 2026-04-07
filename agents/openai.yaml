@@ -1,0 +1,7 @@
+interface:
+  display_name: "Lean Delivery"
+  short_description: "Compact answers for coding work without cutting rigor."
+  default_prompt: "Use lean delivery for this task."
+
+policy:
+  allow_implicit_invocation: false
